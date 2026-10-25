@@ -25,6 +25,8 @@ It should take more or less than 40-60 seconds to boot (looking into this issue)
     * Charging works (duh)
 - Bluetooth (with AirportItlwm spoof)
 - WiFi (with AirportItlwm spoof)
+- Touchscreen AND ThinkPad Pen Pro!
+    * ThinkPad Pen Pro has button support I *think*?
 
 ## Not tested / Partial
 
@@ -32,9 +34,9 @@ It should take more or less than 40-60 seconds to boot (looking into this issue)
 
 ## Does not work
 
-- Fingerprint reader
-- Continuity features/AirDrop
-- ThinkPad Pen Pro (looking into this)
+- Fingerprint reader (will never be added)
+- Continuity features/AirDrop (AirportItlwm and hardware limitation)
+- Sleeping (I just disabled sleep)
 
 
 ## My WiFi doesn't work
